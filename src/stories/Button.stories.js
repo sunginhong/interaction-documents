@@ -24,7 +24,7 @@ export default {
 export const Primary = {
   args: {
     primary: true,
-    label: 'NAVEE Button',
+    label: 'NAVEE Button - Updated for Chromatic Test',
   },
 };
 
